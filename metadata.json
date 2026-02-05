@@ -1,0 +1,5 @@
+{
+  "name": "Bug tracking system",
+  "description": "A comprehensive bug tracking dashboard with role-based access for Testers and Developers, featuring bug reporting, assignment, and resolution workflows.",
+  "requestFramePermissions": []
+}
